@@ -1,5 +1,3 @@
-9026590115
-
 1 instal angular 
    npm install -g @angular/cli
 2 create components
@@ -23,3 +21,4 @@
     npm i bootstrap --save
 8 if you want to check bootstrap version and bootstrap install or not 
     npm list bootstrap
+    9026590115
